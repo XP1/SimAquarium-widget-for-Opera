@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<widget network="public">
+	<widgetname>SimAquarium</widgetname>
+	<id>
+		<host>my.opera.com</host>
+		<name>SimAquarium</name>
+		<revised>2007-07-13</revised>
+	</id>	
+	<width>457</width>
+	<height>300</height>
+	<description>Aquarium simulation game.</description>
+	<icon>gfx/favicon.png</icon>
+	<author>
+		<name>grafio</name>
+	<organization /><email /><link /></author>
+</widget>
